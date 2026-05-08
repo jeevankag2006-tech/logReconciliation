@@ -1,0 +1,3 @@
+[
+  { "service": "Auth", "event": "Login Start", "timestamp": "10:00:05" }
+]

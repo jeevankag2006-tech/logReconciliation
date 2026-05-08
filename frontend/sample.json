@@ -1,0 +1,44 @@
+[{
+        "id": "log_001",
+        "service": "A",
+        "timestamp": "2026-05-06T10:15:00Z",
+        "event": "USER_LOGIN_ATTEMPT",
+        "level": "INFO"
+    },
+    {
+        "id": "log_002",
+        "service": "B",
+        "timestamp": "2026-05-06T10:15:05Z",
+        "event": "AUTH_VERIFICATION_SUCCESS",
+        "level": "INFO"
+    },
+    {
+        "id": "log_003",
+        "service": "A",
+        "timestamp": "2026-05-06T10:15:10Z",
+        "event": "SESSION_CREATED",
+        "level": "INFO"
+    },
+    {
+        "id": "log_004",
+        "service": "C",
+        "timestamp": "2026-05-06T10:15:15Z",
+        "event": "DATABASE_SYNC_ERROR",
+        "level": "ERROR"
+    },
+    {
+        "id": "log_005",
+        "service": "B",
+        "timestamp": "2026-05-06T10:15:20Z",
+        "event": "PAYMENT_GATEWAY_PING",
+        "level": "INFO"
+    },
+    {
+        "id": "log_002",
+        "service": "B",
+        "timestamp": "2026-05-06T10:15:05Z",
+        "event": "AUTH_VERIFICATION_SUCCESS",
+        "level": "INFO",
+        "isDuplicate": true
+    }
+]

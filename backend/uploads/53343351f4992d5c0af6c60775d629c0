@@ -1,0 +1,7 @@
+[
+  {
+    "service": "Payment",
+    "event": "Payment Initiated",
+    "timestamp": "10:00:03"
+  }
+]
